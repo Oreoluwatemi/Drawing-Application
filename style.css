@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-color: burlywood;
+    min-height: 100%;
+}
+
+canvas {
+    border: 2px solid black;
+   margin-top: 50px;
+    margin-left: 250px;
+    background-color: white;;
+}
+
+div { 
+    padding-top: 2.5px;
+    padding-left: 275px;
+    height: 30px;
+    width: 804px;
+    margin-left: 250px;
+    margin-top: 0px;
+    background-color: antiquewhite;
+}
+
+#fontSize {
+    height: 40px;
+    width: 100px;
+}
